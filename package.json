@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Kavalipooja2006/autosuggest/issues"
   },
-  "homepage": "https://github.com/Kavalipooja2006/autosuggest#readme"
+  "homepage": "https://github.com/Kavalipooja2006/autosuggest#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
